@@ -1,2 +1,2 @@
 # protobuffers3
-Implementation of protobuffers 
+Implementation of protobuffers in Java 
